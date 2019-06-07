@@ -1,0 +1,75 @@
+.container {
+    margin-top: 5%;
+    margin-bottom: 15%;
+    background-color: white;
+    padding: 5%;
+    line-height: 2;
+}
+
+.nav-link {
+    margin-left: 35px;
+}
+
+#imgMain {
+    margin-bottom: 20px;
+}
+
+#Boxing {
+    position: relative;
+    line-height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    background-color:#444;
+    bottom: 80px;
+    width: 250px;
+    text-align: center;
+}
+
+#Comedy{
+    position: relative;
+    line-height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    background-color:#444;
+    bottom: 80px;
+    width: 250px;
+    text-align: center;
+}
+
+#Studying{
+    position: relative;
+    line-height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    background-color:#444;
+    bottom: 80px;
+    width: 250px;
+    text-align: center;
+}
+
+#Music{
+    position: relative;
+    line-height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    background-color:#444;
+    bottom: 80px;
+    width: 250px;
+    text-align: center;
+}
+
+#cooking{
+    position: relative;
+    line-height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    background-color:#444;
+    bottom: 80px;
+    width: 250px;
+    text-align: center;
+}
